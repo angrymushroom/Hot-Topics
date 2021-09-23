@@ -1,12 +1,12 @@
 # Hot-Topics
-##Metaheuristics in Python
+## Metaheuristics in Python
 
-###CWS
+### CWS
 
-###GRASP
+### GRASP
 
-###Tabu Search
+### Tabu Search
 
-###Genetic Algorithm
+### Genetic Algorithm
 
-###DES
+### DES
